@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data_name">data_name</string-array>
+    <string-array name="data_description">data_description</string-array>
+    <string-array name="data_photo">data_photo</string-array>
+</resources>

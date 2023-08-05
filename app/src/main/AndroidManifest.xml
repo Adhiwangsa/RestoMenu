@@ -13,6 +13,9 @@
         android:theme="@style/Theme.RestoMenu"
         tools:targetApi="31">
         <activity
+            android:name=".FoodsActivity"
+            android:exported="false" />
+        <activity
             android:name=".DetailMenuActivity"
             android:exported="false" />
         <activity

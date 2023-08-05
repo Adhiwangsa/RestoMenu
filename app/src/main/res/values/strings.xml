@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">RestoMenu</string>
+    <string name="menu">Nama Menu</string>
+    <string name="description">Deskripsi</string>
+    <string name="price">Harga</string>
+    <string name="order">Pesan</string>
+    <string name="btn">TEST ACTIVITY</string>
+    <string name="pilih">PILIH MENU</string>
 </resources>
